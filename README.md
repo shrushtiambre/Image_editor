@@ -1,5 +1,5 @@
-# Pixio 
-Pixio is an Image Editing application(Still Developing) which uses OpenCV library for Image manipulation. 
+# Image Editor
+Image Editing application which uses OpenCV library for Image manipulation. 
 GUI is made using Tkinter.
 To use this application download the zip file or pull it using git pull command 
 And then move the "Sample" folder (Provided in the repository) to the C:/ drive of your system.
